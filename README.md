@@ -12,7 +12,6 @@ This repository contains Terraform configurations for deploying instances and a 
 
 This module is responsible for initiating a single instance on the ESXi environment. The configurations allow for the specification of VM details such as CPU, memory, disk size, and network interface.
 
-- [Main Configuration](https://github.com/WasinUddy/Prometheuzdy-Terraform/blob/main/Initiate_Instance/main.tf)
 
 ### 2. [Initiate K3S Cluster](https://github.com/WasinUddy/Prometheuzdy-Terraform/tree/main/Initiate_K3S_Cluster)
 
