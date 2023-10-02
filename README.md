@@ -22,8 +22,3 @@ This module sets up a K3S cluster with separate configurations for the master an
 
 This project is licensed under the [MIT License](https://github.com/WasinUddy/Prometheuzdy-Terraform/blob/main/LICENSE).
 
----
-
-Note: Always ensure that sensitive data like SSH keys are securely managed. Consider using Terraform's built-in mechanisms for managing secrets.
-
----
